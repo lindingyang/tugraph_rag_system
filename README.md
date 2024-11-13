@@ -2,6 +2,8 @@
 
 2024 CCF BDCI 赛题一 「TuGraph for AI」RAG在智能问答场景中的落地 A榜第15名思路分享。
 
+RAG知识库数据集详见: [here](https://github.com/theshi-1128/tugraph_rag_dataset)
+
 ## 方案总结
 
 - Embedding Model: text-embedding-3-large (openai)
