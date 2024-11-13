@@ -4,6 +4,8 @@
 
 RAG知识库数据集详见: [here](https://github.com/theshi-1128/tugraph_rag_dataset)
 
+If you find this work useful in your own research, please feel free to leave a star⭐️!
+
 ## 方案总结
 
 - Embedding Model: text-embedding-3-large (openai)
